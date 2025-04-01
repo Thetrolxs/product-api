@@ -18,7 +18,7 @@ Esta API REST permite gestionar tiendas y productos utilizando .NET 9 y SQLite. 
 ## Instalación
 1. Clonar el repositorio
    ```bash
-   git clone https://github.com/usuario/product_api.git
+   git clone https://github.com/Thetrolxs/product-api.git
    cd product_api
    ```
 2. Restaurar paquetes
